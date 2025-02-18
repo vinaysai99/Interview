@@ -4,6 +4,7 @@
 - What is a window function in SQL, and how do you use it for ranking data?
 - How do you calculate the cumulative sum for a column in SQL?
 - What is the difference between UNION and UNION ALL in SQL?
+- Practise writing code without execution!
 
 𝗣𝘆𝘁𝗵𝗼𝗻
 - How do you import a CSV file into a pandas DataFrame, and how would you handle missing data?
