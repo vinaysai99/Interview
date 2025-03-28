@@ -34,6 +34,7 @@
 - How would you optimize a Tableau dashboard for performance when working with large datasets?
 - How do you create a custom date filter in Tableau to allow users to select specific date ranges?
 
+**Screening**
 Why are looking to move from your current job?
 
 
