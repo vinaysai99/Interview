@@ -29,3 +29,5 @@ Azure Databricks
 17) Consider a job is running very slow in Azure Databricks. How would you approach the issue and make it faster?
 18) What are the optimization techniques you have worked on? Explain them in brief.
 19) How would you optimize the job with respect to memory management in azure databricks?
+
+COMPLETE ANSWERS
