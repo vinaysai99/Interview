@@ -30,4 +30,4 @@ Azure Databricks
 18) What are the optimization techniques you have worked on? Explain them in brief.
 19) How would you optimize the job with respect to memory management in azure databricks?
 
-
+data warehousing and different types of data storage.
